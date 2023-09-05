@@ -5,3 +5,4 @@ uncompressed/.DS_Store
 .vscode/
 .DS_Store
 /work/*
+.idea
